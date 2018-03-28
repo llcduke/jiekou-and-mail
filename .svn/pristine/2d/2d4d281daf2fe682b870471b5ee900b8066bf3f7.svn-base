@@ -1,0 +1,3 @@
+1.导入javax.mail-1.6.1.jar/javax.mail-api-1.6.1.jar用来测试
+2.发送邮件的邮箱要开启smtp权限
+3.然后JavaMail.java类主函数运行测试
